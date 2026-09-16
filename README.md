@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0835-image-overlap) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitsingh8292/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitsingh8292/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
