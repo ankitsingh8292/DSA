@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitsingh8292/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ankitsingh8292/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ankitsingh8292/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitsingh8292/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitsingh8292/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/ankitsingh8292/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ankitsingh8292/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitsingh8292/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ankitsingh8292/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
