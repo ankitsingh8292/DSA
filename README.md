@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitsingh8292/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/ankitsingh8292/DSA/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitsingh8292/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitsingh8292/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitsingh8292/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitsingh8292/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
@@ -190,4 +193,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitsingh8292/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankitsingh8292/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
