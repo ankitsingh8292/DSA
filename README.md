@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitsingh8292/DSA/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitsingh8292/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0835-image-overlap) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/ankitsingh8292/DSA/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsingh8292/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
