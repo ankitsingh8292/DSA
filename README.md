@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitsingh8292/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitsingh8292/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/ankitsingh8292/DSA/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankitsingh8292/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsingh8292/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsingh8292/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
