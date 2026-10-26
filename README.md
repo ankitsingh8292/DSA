@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ankitsingh8292/DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/ankitsingh8292/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ankitsingh8292/DSA/tree/master/0118-pascals-triangle) |
+| [0134-gas-station](https://github.com/ankitsingh8292/DSA/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/ankitsingh8292/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitsingh8292/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/ankitsingh8292/DSA/tree/master/0835-image-overlap) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ankitsingh8292/DSA/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/ankitsingh8292/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitsingh8292/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitsingh8292/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
